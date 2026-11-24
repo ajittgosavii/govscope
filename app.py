@@ -259,7 +259,7 @@ def _gauge_chart(score: int) -> go.Figure:
     ))
     fig.update_layout(
         height=240,
-        margin={"t": 20, "b": 0, "l": 20, "r": 20},
+        margin={"t": 30, "b": 10, "l": 45, "r": 45},
         paper_bgcolor="rgba(0,0,0,0)",
         font={"family": "system-ui, sans-serif"},
     )
