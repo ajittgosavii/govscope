@@ -1,0 +1,40 @@
+{
+  "solicitation_procedure": {
+    "TN": "Non-Competitive",
+    "TC": "Competitive – Traditional",
+    "AC": "Advance Contract Award Notice",
+    "OB": "Competitive – Open Bidding (GETS)",
+    "ST": "Competitive – Selective Tendering",
+    "NP": "Not applicable",
+    "UN": "Unknown"
+  },
+  "limited_tendering_reason": {
+    "00": "None",
+    "05": "No response to bid solicitation",
+    "20": "Goods purchased on a commodity market",
+    "21": "Purchases made under exceptionally advantageous conditions",
+    "22": "Winner of an architectural design contest",
+    "23": "Consulting services regarding matters of a confidential nature",
+    "30": "Work on a property by a contractor according to a warranty or guarantee",
+    "31": "Work on a leased building performed only by the lessor",
+    "32": "Subscriptions to newspapers, magazines, or other periodicals",
+    "33": "Goods regarding matters of a confidential or privileged nature",
+    "71": "Exclusive rights",
+    "72": "Prototype purchase",
+    "74": "Additional deliveries (formerly Interchangeable Parts)",
+    "81": "Extreme urgency",
+    "24": "Additional construction services (discontinued 2022-01-01)",
+    "25": "New construction services (discontinued 2022-01-01)",
+    "85": "Low dollar-value (discontinued 2022-01-01)",
+    "86": "Prices and/or sources fixed by government regulations (discontinued 2022-01-01)",
+    "87": "Government objectives representing best interests/value (discontinued 2022-01-01)",
+    "90": "Protection of human, animal, or plant life or health (discontinued 2022-01-01)"
+  },
+  "commodity_type": {
+    "G": "Goods",
+    "S": "Services",
+    "C": "Construction",
+    "A": "Architecture & engineering services"
+  },
+  "_source": "Official field choices from https://open.canada.ca/data/en/recombinant-schema/contracts.json, fetched 2026-11-24"
+}
