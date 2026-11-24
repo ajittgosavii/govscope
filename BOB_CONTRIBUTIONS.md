@@ -254,7 +254,7 @@ Low findings L-1 to L-7 (redundant passes, a null `total` edge case, a hard-code
 | `sample_data/code_labels.json` | Government of Canada published dataset schema | Official solicitation-procedure, tendering-reason and commodity-type labels, extracted with Claude from the dataset's published schema. |
 | `.venv/` | Python Package Index (pip) | Third-party dependencies installed by pip. |
 | UI restyling and extensions | Claude (Anthropic) | Final login-page layout, heartbeat logo and header pill; the 12 additional departments (20 total) with parallel cross-department fetch; the welcome / "About this application" box and glossary wording; Streamlit version pin. |
-| Planning and data investigation | Claude (Anthropic) | Project plan and the prompts given to Bob; diagnosis of the amendment double-counting and null-field crash (fixes implemented by Bob, see Debug). The commit's `Co-Authored-By: Claude` line reflects this. |
+| Planning and data investigation | Claude (Anthropic) | Project plan and the prompts given to Bob; diagnosis of the amendment double-counting and null-field crash (fixes implemented by Bob, see Debug). |
 
 ---
 
